@@ -60,7 +60,8 @@
       "domain:ubi.com",
       "domain:geforce.com",
       "domain:nvidia.com",
-      "domain:openai.com"
+      "domain:openai.com",
+      "domain:chocolatey.org"
     ],
     "enabled": true
   },
