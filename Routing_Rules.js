@@ -7,7 +7,8 @@
     "domain": [
       "domain:discord.com",
       "domain:discord.media",
-      "google.com"
+      "google.com",
+      "console.hetzner.cloud"
     ],
     "enabled": true
   },
@@ -57,10 +58,14 @@
     "ip": [],
     "domain": [
       "domain:ubisoft.com",
+      "domain:alert-eu.battle.net",
+      "domain:blizzard.com",
+      "domain:telemetry-in.battle.net",
       "domain:ubi.com",
       "domain:geforce.com",
       "domain:nvidia.com",
-      "domain:openai.com"
+      "domain:openai.com",
+      "domain:clickup.com"
     ],
     "enabled": true
   },
