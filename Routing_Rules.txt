@@ -35,7 +35,8 @@
       "donya-e-eqtesad.com",
       "fardadshabake.com",
       "neshan.org",
-      "dayachange.com"
+      "dayachange.com",
+      "rahavad365.com"
     ],
     "enabled": true
   },
