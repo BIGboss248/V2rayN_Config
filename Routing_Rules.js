@@ -64,8 +64,7 @@
       "domain:ubi.com",
       "domain:geforce.com",
       "domain:nvidia.com",
-      "domain:openai.com",
-      "domain:clickup.com"
+      "domain:openai.com"
     ],
     "enabled": true
   },
