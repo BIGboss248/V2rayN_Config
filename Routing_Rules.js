@@ -8,6 +8,7 @@
       "domain:discord.com",
       "domain:discord.media",
       "google.com",
+      "domain:googleapis.com",
       "console.hetzner.cloud"
     ],
     "enabled": true
