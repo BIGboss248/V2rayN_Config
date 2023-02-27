@@ -9,7 +9,8 @@
       "domain:discord.media",
       "google.com",
       "domain:googleapis.com",
-      "console.hetzner.cloud"
+      "console.hetzner.cloud",
+      "10fastfingers.com"
     ],
     "enabled": true
   },
