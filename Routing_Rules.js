@@ -39,7 +39,9 @@
       "fardadshabake.com",
       "neshan.org",
       "dayachange.com",
-      "rahavad365.com"
+      "rahavad365.com",
+      "boghrat.com",
+      "maps.google.com"
     ],
     "enabled": true
   },
