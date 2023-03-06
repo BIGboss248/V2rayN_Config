@@ -1,27 +1,10 @@
 [
   {
-    "id": "5136681183247039363",
+    "id": "5680571435289373368",
     "port": "",
     "outboundTag": "direct",
     "ip": [],
     "domain": [
-      "domain:discord.com",
-      "domain:discord.media",
-      "google.com",
-      "maps.google.com",
-      "domain:googleapis.com",
-      "console.hetzner.cloud",
-      "10fastfingers.com"
-    ],
-    "enabled": true
-  },
-  {
-    "id": "4704029302067965246",
-    "port": "",
-    "outboundTag": "direct",
-    "ip": [],
-    "domain": [
-      "domain:anydesk.com",
       "domain:.ir",
       "filimo.com",
       "web.igap.net",
@@ -42,12 +25,29 @@
       "neshan.org",
       "dayachange.com",
       "rahavad365.com",
-      "boghrat.com"
+      "boghrat.com",
     ],
     "enabled": true
   },
   {
-    "id": "5533663289380593819",
+    "id": "5489112672475055774",
+    "port": "",
+    "outboundTag": "direct",
+    "ip": [],
+    "domain": [
+      "domain:anydesk.com",
+      "domain:discord.com",
+      "domain:discord.media",
+      "google.com",
+      "maps.google.com",
+      "domain:googleapis.com",
+      "console.hetzner.cloud",
+      "10fastfingers.com"
+    ],
+    "enabled": true
+  },
+  {
+    "id": "5575272880522899952",
     "port": "",
     "outboundTag": "direct",
     "ip": [],
@@ -64,7 +64,7 @@
     "enabled": true
   },
   {
-    "id": "5301711820345837352",
+    "id": "5649020804373789508",
     "port": "0-65535",
     "outboundTag": "proxy",
     "ip": [],
