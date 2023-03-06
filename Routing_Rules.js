@@ -8,6 +8,7 @@
       "domain:discord.com",
       "domain:discord.media",
       "google.com",
+      "maps.google.com",
       "domain:googleapis.com",
       "console.hetzner.cloud",
       "10fastfingers.com"
@@ -20,6 +21,7 @@
     "outboundTag": "direct",
     "ip": [],
     "domain": [
+      "domain:anydesk.com",
       "domain:.ir",
       "filimo.com",
       "web.igap.net",
@@ -40,18 +42,7 @@
       "neshan.org",
       "dayachange.com",
       "rahavad365.com",
-      "boghrat.com",
-      "maps.google.com"
-    ],
-    "enabled": true
-  },
-  {
-    "id": "5464091991348280178",
-    "port": "",
-    "outboundTag": "direct",
-    "ip": [],
-    "domain": [
-      "domain:anydesk.com"
+      "boghrat.com"
     ],
     "enabled": true
   },
