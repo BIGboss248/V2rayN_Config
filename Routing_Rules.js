@@ -1,6 +1,6 @@
 [
   {
-    "id": "5680571435289373368",
+    "id": "4880784328903101967",
     "port": "",
     "outboundTag": "direct",
     "ip": [],
@@ -26,11 +26,16 @@
       "dayachange.com",
       "rahavad365.com",
       "boghrat.com",
+      "iranxia.net",
+      "masterkala.com",
+      "api.torob.com",
+      "dlfox.com",
+      "par30games.net"
     ],
     "enabled": true
   },
   {
-    "id": "5489112672475055774",
+    "id": "5025892071271854078",
     "port": "",
     "outboundTag": "direct",
     "ip": [],
@@ -42,12 +47,14 @@
       "maps.google.com",
       "domain:googleapis.com",
       "console.hetzner.cloud",
-      "10fastfingers.com"
+      "10fastfingers.com",
+      "mi.com",
+      "bing.com"
     ],
     "enabled": true
   },
   {
-    "id": "5575272880522899952",
+    "id": "5076198951147597584",
     "port": "",
     "outboundTag": "direct",
     "ip": [],
@@ -59,12 +66,13 @@
       "domain:ubi.com",
       "domain:geforce.com",
       "domain:nvidia.com",
-      "domain:openai.com"
+      "domain:openai.com",
+      "udemy.com"
     ],
     "enabled": true
   },
   {
-    "id": "5649020804373789508",
+    "id": "4938944873475307635",
     "port": "0-65535",
     "outboundTag": "proxy",
     "ip": [],
